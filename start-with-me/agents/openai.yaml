@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start With Me"
+  short_description: "低压力地拆出可执行第一步，陪你开始、继续或体面暂停"
+  default_prompt: "Use $start-with-me to help me begin one task, choose a low-pressure work rhythm, and leave a clear way to resume."
