@@ -30,6 +30,8 @@
 
 ## 开发流程
 
+完整的通用二开阶段、交付物和发布门禁见 [`docs/skill-redevelopment-workflow.md`](docs/skill-redevelopment-workflow.md)。以下是仓库内必须执行的精简规则：
+
 1. 收到 Skill 评估需求时，必须把结论落到 `docs/evaluations/<skill-name>.md`，不能只保留在对话中。
 2. 评估文档使用 `docs/evaluations/_template.md`，至少记录定位、触发场景、边界、保留/重建/删除决策、风险、版本范围、验收场景和下一步。
 3. 对同一个 Skill 继续评估时更新原文档，并维护“更新记录”；不要为每轮讨论创建相互割裂的文档。

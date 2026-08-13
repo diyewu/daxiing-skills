@@ -11,6 +11,7 @@ daxiing-skills/
 │   ├── README.md           # 面向使用者的用途与使用说明
 │   └── agents/openai.yaml
 ├── docs/evaluations/      # Skill 评估、重构决策与验收准备
+├── docs/forward-tests/    # 隔离前向测试证据
 ├── scripts/               # 仓库级创建与校验工具
 ├── tests/                 # 仓库级工具测试
 ├── AGENTS.md              # Agent 开发约定
@@ -24,12 +25,15 @@ daxiing-skills/
 | Skill | 定位 | 状态 |
 |---|---|---|
 | [`start-with-me`](start-with-me/README.md) | 把难以开始的任务变成一个低压力、可执行的起步动作 | V0.2 已通过 16 个隔离前向测试 |
+| [`pick-something-fun`](pick-something-fun/README.md) | 根据当前限制快速选出一个可执行的休闲活动 | V0.1 已通过 12 个隔离前向测试 |
 
 ## 评估 Skill
 
 所有 Skill 评估都必须落地到 `docs/evaluations/<skill-name>.md`。同一 Skill 后续调整继续更新同一份文档，记录定位、范围、关键决策、风险、验收场景和实施状态，避免评估结论只存在于对话中。
 
 新评估从 `docs/evaluations/_template.md` 开始。评估文档是仓库开发资料，不属于可安装的 Skill 内容。
+
+完整的评估、独立重建、开发、验证、安装和发布流程见[通用 Skill 二开流程](docs/skill-redevelopment-workflow.md)。
 
 ## 创建 Skill
 

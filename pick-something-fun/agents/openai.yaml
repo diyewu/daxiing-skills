@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pick Something Fun"
+  short_description: "Turn free time into one feasible activity plan"
+  default_prompt: "Use $pick-something-fun to choose one feasible activity for my current time, place, people, budget, energy, and constraints."
