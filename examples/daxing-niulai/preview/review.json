@@ -1,0 +1,1224 @@
+{
+  "ok": true,
+  "frames_root": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16858,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16834,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16846,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16864,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 149
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16848,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16966,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14330,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13961,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14449,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13698,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13967,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13757,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14452,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 199
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14450,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14328,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13961,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14488,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13698,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13967,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13827,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14492,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14442,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17287,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17519,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 90
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16323,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17294,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19485,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17173,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17146,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16396,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18339,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15590,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17045,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18058,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23618,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25388,
+          "bbox": [
+            5,
+            12,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24817,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17229,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17096,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16651,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16232,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15030,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16433,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15215,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 157
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16493,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14302,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14975,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14998,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14607,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14615,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16007,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15457,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16922,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13857,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13581,
+          "bbox": [
+            44,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14064,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16267,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        }
+      ]
+    },
+    {
+      "state": "look-000-157-5",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16704,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15133,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13971,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12895,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12146,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12899,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13969,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12848,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        }
+      ]
+    },
+    {
+      "state": "look-180-337-5",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17768,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13468,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13294,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16199,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17490,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16650,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13613,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13368,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        }
+      ]
+    }
+  ]
+}

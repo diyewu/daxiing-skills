@@ -1,0 +1,7 @@
+Make Codex Pet V2
+Copyright 2026 wudiye
+
+This product includes modified material from the OpenAI `hatch-pet` Skill,
+licensed under the Apache License, Version 2.0. The modified implementation
+adds the Codex sprite v2 8×11 contract, 16 look-direction poses, Chinese user
+documentation, and repository-specific validation.

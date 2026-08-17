@@ -26,6 +26,12 @@ daxiing-skills/
 |---|---|---|
 | [`start-with-me`](start-with-me/README.md) | 把难以开始的任务变成一个低压力、可执行的起步动作 | V0.2 已通过 16 个隔离前向测试 |
 | [`pick-something-fun`](pick-something-fun/README.md) | 根据当前限制快速选出一个可执行的休闲活动 | V0.1 已通过 12 个隔离前向测试 |
+| [`make-codex-pet-v2`](make-codex-pet-v2/README.md) | 从角色描述或参考图孵化可安装、可验证的 Codex v2 动态宠物 | V0.1 已完成“大星牛来”真实样例与 8×11 自动验收 |
+
+## 完整样例
+
+- [大星牛来](examples/daxing-niulai/README.md)：11 行、9 组状态、16 个观察方向的 Codex v2 动态宠物。
+- [公众号文章：我给 Codex 做了一只“大星牛来”](articles/2026-08-17-make-your-own-codex-pet.md)：从角色基准、逐行生成到自动与视觉验收的完整实测记录。
 
 ## 评估 Skill
 
