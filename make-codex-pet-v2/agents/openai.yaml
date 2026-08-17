@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Codex Pet V2"
+  short_description: "从参考图孵化可安装、可验证的 Codex v2 动态宠物"
+  default_prompt: "Use $make-codex-pet-v2 to turn my character idea or reference image into a validated Codex v2 animated pet."
