@@ -1,8 +1,10 @@
 {
   "ok": true,
-  "frames_root": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames",
+  "frames_root": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
   "rows": [
     {
       "state": "idle",
@@ -15,85 +17,40 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16858,
+          "nontransparent_pixels": 18057,
           "bbox": [
-            38,
+            36,
             5,
-            153,
+            155,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 169
+          "chroma_adjacent_pixels": 270
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16834,
+          "nontransparent_pixels": 17322,
           "bbox": [
-            38,
+            39,
             5,
             153,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 178
+          "chroma_adjacent_pixels": 213
         },
         {
           "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/02.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16846,
-          "bbox": [
-            38,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 174
-        },
-        {
-          "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16864,
-          "bbox": [
-            38,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 149
-        },
-        {
-          "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16848,
-          "bbox": [
-            38,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 178
-        },
-        {
-          "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/idle/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16966,
+          "nontransparent_pixels": 17629,
           "bbox": [
             38,
             5,
@@ -101,7 +58,52 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 176
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18087,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 372
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17710,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18144,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
         }
       ]
     },
@@ -116,123 +118,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14330,
+          "nontransparent_pixels": 16675,
           "bbox": [
-            40,
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 449
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15709,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 491
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15530,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15476,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 433
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16391,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 444
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15816,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 515
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15379,
+          "bbox": [
+            41,
             5,
             151,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 184
-        },
-        {
-          "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13961,
-          "bbox": [
-            42,
-            5,
-            150,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 14449,
-          "bbox": [
-            37,
-            5,
-            155,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 179
-        },
-        {
-          "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13698,
-          "bbox": [
-            42,
-            5,
-            149,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 174
-        },
-        {
-          "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13967,
-          "bbox": [
-            43,
-            5,
-            148,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 203
-        },
-        {
-          "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13757,
-          "bbox": [
-            45,
-            5,
-            147,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 186
-        },
-        {
-          "index": 6,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/06.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 14452,
-          "bbox": [
-            37,
-            5,
-            155,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 199
+          "chroma_adjacent_pixels": 373
         },
         {
           "index": 7,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-right/07.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-right/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14450,
+          "nontransparent_pixels": 15667,
           "bbox": [
-            36,
+            34,
             5,
-            155,
+            158,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 200
+          "chroma_adjacent_pixels": 530
         }
       ]
     },
@@ -247,123 +249,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14328,
+          "nontransparent_pixels": 15610,
           "bbox": [
-            41,
+            26,
             5,
-            150,
+            166,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 190
+          "chroma_adjacent_pixels": 455
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13961,
+          "nontransparent_pixels": 15252,
           "bbox": [
-            42,
+            28,
             5,
-            150,
+            163,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
+          "chroma_adjacent_pixels": 451
         },
         {
           "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/02.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14488,
+          "nontransparent_pixels": 15367,
           "bbox": [
-            37,
+            30,
             5,
-            155,
+            162,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 179
+          "chroma_adjacent_pixels": 450
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13698,
+          "nontransparent_pixels": 15372,
           "bbox": [
-            42,
+            27,
             5,
-            149,
+            164,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 174
+          "chroma_adjacent_pixels": 422
         },
         {
           "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/04.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13967,
+          "nontransparent_pixels": 15755,
           "bbox": [
-            43,
+            28,
             5,
-            148,
+            164,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 203
+          "chroma_adjacent_pixels": 477
         },
         {
           "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/05.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13827,
+          "nontransparent_pixels": 15381,
           "bbox": [
-            44,
+            29,
             5,
-            147,
+            163,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 185
+          "chroma_adjacent_pixels": 438
         },
         {
           "index": 6,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/06.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14492,
+          "nontransparent_pixels": 15330,
           "bbox": [
-            38,
+            31,
             5,
-            154,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 190
+          "chroma_adjacent_pixels": 444
         },
         {
           "index": 7,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running-left/07.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running-left/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14442,
+          "nontransparent_pixels": 16182,
           "bbox": [
-            37,
+            25,
             5,
-            154,
+            167,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 209
+          "chroma_adjacent_pixels": 599
         }
       ]
     },
@@ -378,63 +380,63 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waving/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17287,
-          "bbox": [
-            36,
-            5,
-            155,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 70
-        },
-        {
-          "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17519,
-          "bbox": [
-            34,
-            5,
-            158,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 90
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16323,
+          "nontransparent_pixels": 16819,
           "bbox": [
             38,
             5,
-            153,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 76
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17396,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17550,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waving/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waving/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17294,
+          "nontransparent_pixels": 17176,
           "bbox": [
-            36,
+            30,
             5,
-            155,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 93
+          "chroma_adjacent_pixels": 235
         }
       ]
     },
@@ -449,78 +451,78 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19485,
+          "nontransparent_pixels": 22400,
           "bbox": [
-            25,
+            17,
             5,
-            167,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 191
+          "chroma_adjacent_pixels": 270
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17173,
+          "nontransparent_pixels": 17700,
           "bbox": [
-            29,
+            27,
             5,
-            162,
+            165,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 178
+          "chroma_adjacent_pixels": 192
         },
         {
           "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/02.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17146,
-          "bbox": [
-            18,
-            5,
-            174,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
-        },
-        {
-          "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16396,
+          "nontransparent_pixels": 17958,
           "bbox": [
             21,
             5,
-            171,
+            170,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 160
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17260,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
         },
         {
           "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/jumping/04.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18339,
+          "nontransparent_pixels": 20381,
           "bbox": [
-            33,
+            22,
             5,
-            159,
+            170,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 167
+          "chroma_adjacent_pixels": 192
         }
       ]
     },
@@ -535,141 +537,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15590,
-          "bbox": [
-            42,
-            5,
-            149,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 187
-        },
-        {
-          "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17045,
-          "bbox": [
-            33,
-            5,
-            158,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 172
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18058,
-          "bbox": [
-            32,
-            5,
-            160,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 185
-        },
-        {
-          "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 23618,
-          "bbox": [
-            15,
-            5,
-            176,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 251
-        },
-        {
-          "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 25388,
-          "bbox": [
-            5,
-            12,
-            187,
-            196
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 290
-        },
-        {
-          "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 24817,
-          "bbox": [
-            17,
-            5,
-            175,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 288
-        },
-        {
-          "index": 6,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/06.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17229,
-          "bbox": [
-            39,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 166
-        },
-        {
-          "index": 7,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/failed/07.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17096,
-          "bbox": [
-            39,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 209
-        }
-      ]
-    },
-    {
-      "state": "waiting",
-      "expected_frames": 6,
-      "actual_frames": 6,
-      "extraction_method": "components",
-      "ok": true,
-      "errors": [],
-      "warnings": [],
-      "frames": [
-        {
-          "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/00.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16651,
+          "nontransparent_pixels": 17420,
           "bbox": [
             38,
             5,
@@ -677,29 +548,14 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 155
+          "chroma_adjacent_pixels": 304
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16232,
-          "bbox": [
-            31,
-            5,
-            161,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 146
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15030,
+          "nontransparent_pixels": 16576,
           "bbox": [
             41,
             5,
@@ -707,44 +563,89 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 119
+          "chroma_adjacent_pixels": 277
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17469,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16433,
+          "nontransparent_pixels": 18787,
           "bbox": [
-            25,
+            38,
             5,
-            166,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 172
+          "chroma_adjacent_pixels": 255
         },
         {
           "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/04.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15215,
+          "nontransparent_pixels": 20761,
           "bbox": [
-            39,
+            32,
             5,
-            152,
+            160,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 157
+          "chroma_adjacent_pixels": 275
         },
         {
           "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/waiting/05.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16493,
+          "nontransparent_pixels": 17245,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16946,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 279
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17049,
           "bbox": [
             39,
             5,
@@ -752,7 +653,110 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 182
+          "chroma_adjacent_pixels": 316
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16913,
+          "bbox": [
+            43,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16989,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16406,
+          "bbox": [
+            36,
+            7,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 291
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16536,
+          "bbox": [
+            38,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17201,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16543,
+          "bbox": [
+            36,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
         }
       ]
     },
@@ -767,93 +771,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14302,
+          "nontransparent_pixels": 16821,
           "bbox": [
-            43,
+            38,
             5,
-            148,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 124
+          "chroma_adjacent_pixels": 288
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14975,
+          "nontransparent_pixels": 17077,
           "bbox": [
-            43,
+            36,
             5,
-            148,
+            156,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 117
+          "chroma_adjacent_pixels": 296
         },
         {
           "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/02.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14998,
+          "nontransparent_pixels": 16712,
           "bbox": [
-            42,
-            5,
-            149,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 111
-        },
-        {
-          "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 14607,
-          "bbox": [
-            44,
-            5,
-            147,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 109
-        },
-        {
-          "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 14615,
-          "bbox": [
-            43,
-            5,
-            148,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 125
-        },
-        {
-          "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/running/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16007,
-          "bbox": [
-            38,
+            39,
             5,
             153,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 118
+          "chroma_adjacent_pixels": 287
+        },
+        {
+          "index": 3,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16833,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17015,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 306
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17817,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
         }
       ]
     },
@@ -868,93 +872,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15457,
+          "nontransparent_pixels": 17753,
           "bbox": [
-            42,
+            36,
             5,
-            150,
+            155,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 130
+          "chroma_adjacent_pixels": 219
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16922,
+          "nontransparent_pixels": 16828,
           "bbox": [
-            29,
+            38,
             5,
-            162,
+            153,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 175
+          "chroma_adjacent_pixels": 223
         },
         {
           "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/02.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13857,
+          "nontransparent_pixels": 16127,
           "bbox": [
-            46,
+            43,
             5,
-            145,
+            149,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 104
+          "chroma_adjacent_pixels": 220
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13581,
+          "nontransparent_pixels": 15616,
           "bbox": [
-            44,
+            39,
             5,
-            148,
+            152,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 114
+          "chroma_adjacent_pixels": 198
         },
         {
           "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/04.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14064,
+          "nontransparent_pixels": 15078,
           "bbox": [
-            45,
+            46,
             5,
-            147,
+            146,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 138
+          "chroma_adjacent_pixels": 250
         },
         {
           "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/review/05.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/review/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16267,
+          "nontransparent_pixels": 17994,
           "bbox": [
-            41,
+            35,
             5,
-            151,
+            156,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 139
+          "chroma_adjacent_pixels": 198
         }
       ]
     },
@@ -969,123 +973,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16704,
+          "nontransparent_pixels": 18735,
           "bbox": [
-            38,
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 1,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17656,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16985,
+          "bbox": [
+            39,
             5,
             153,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 182
-        },
-        {
-          "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15133,
-          "bbox": [
-            46,
-            5,
-            146,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 108
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13971,
-          "bbox": [
-            48,
-            5,
-            143,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 165
+          "chroma_adjacent_pixels": 224
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12895,
+          "nontransparent_pixels": 16287,
           "bbox": [
-            48,
+            43,
             5,
-            144,
+            149,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 120
+          "chroma_adjacent_pixels": 212
         },
         {
           "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/04.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12146,
+          "nontransparent_pixels": 12629,
           "bbox": [
-            48,
+            47,
             5,
             144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 76
+          "chroma_adjacent_pixels": 209
         },
         {
           "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/05.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12899,
+          "nontransparent_pixels": 12879,
           "bbox": [
-            54,
+            47,
             5,
-            137,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 155
+          "chroma_adjacent_pixels": 224
         },
         {
           "index": 6,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/06.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13969,
+          "nontransparent_pixels": 14262,
           "bbox": [
-            49,
+            47,
             5,
-            142,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 84
+          "chroma_adjacent_pixels": 163
         },
         {
           "index": 7,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-000-157-5/07.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-000-157-5/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12848,
+          "nontransparent_pixels": 18405,
           "bbox": [
-            53,
+            33,
             5,
-            139,
+            158,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 154
+          "chroma_adjacent_pixels": 368
         }
       ]
     },
@@ -1100,115 +1104,70 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/00.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17768,
+          "nontransparent_pixels": 17867,
           "bbox": [
-            35,
+            34,
             5,
-            156,
+            157,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 223
+          "chroma_adjacent_pixels": 358
         },
         {
           "index": 1,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/01.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13468,
+          "nontransparent_pixels": 15792,
           "bbox": [
-            51,
+            44,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        },
+        {
+          "index": 2,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13699,
+          "bbox": [
+            50,
             5,
             141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 183
-        },
-        {
-          "index": 2,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13294,
-          "bbox": [
-            49,
-            5,
-            143,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 175
+          "chroma_adjacent_pixels": 267
         },
         {
           "index": 3,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/03.png",
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16199,
-          "bbox": [
-            41,
-            5,
-            150,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 194
-        },
-        {
-          "index": 4,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17490,
-          "bbox": [
-            35,
-            5,
-            156,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 242
-        },
-        {
-          "index": 5,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16650,
-          "bbox": [
-            39,
-            5,
-            153,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
-        },
-        {
-          "index": 6,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/06.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 13613,
+          "nontransparent_pixels": 12022,
           "bbox": [
             49,
             5,
-            143,
+            142,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 154
+          "chroma_adjacent_pixels": 219
         },
         {
-          "index": 7,
-          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai/frames/look-180-337-5/07.png",
+          "index": 4,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13368,
+          "nontransparent_pixels": 12083,
           "bbox": [
             48,
             5,
@@ -1216,7 +1175,52 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 203
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 5,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15914,
+          "bbox": [
+            44,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 235
+        },
+        {
+          "index": 6,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15516,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 7,
+          "file": "/Users/wudiye/develop/personal/code/daxiing-skills/.work/daxing-niulai-bull-market/frames/look-180-337-5/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17638,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 330
         }
       ]
     }

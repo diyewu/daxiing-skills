@@ -10,9 +10,10 @@
 
 ## 个人化设计
 
-- 保留芥末黄色短绒毛、深紫色牛角、粉紫色宽口鼻和半眯眼神情。
-- 新增钴蓝色三角领巾与橙色四角星布贴，作为“大星AI”的个人识别元素。
-- 使用 3D 定格动画玩偶质感，缩小到 `192×208` 仍能辨认轮廓和配色。
+- 保留芥末黄色短绒毛、粉紫色宽口鼻、半眯眼神情，以及钴蓝领巾和橙色四角星组成的“大星AI”识别元素。
+- 两支牛角从根部到尖端全部升级为加粗、加高的抛光金角。
+- 新增红金牛市战甲、巨大上涨箭头、金元宝腰扣、祖母绿腰带和对称粗金护腕。
+- 使用 3D 定格动画玩偶质感；装饰虽然张扬，但都采用大块、固定、易辨认的形状，缩小到 `192×208` 仍能读出主题。
 
 ## Codex v2 合同
 
@@ -35,7 +36,7 @@ ${CODEX_HOME:-$HOME/.codex}/pets/daxing-niulai/
 
 ## 验证
 
-`preview/validation.json` 的几何、透明和空单元格检查全部通过；`preview/review.json` 的 11 行切帧检查无错误和警告。`preview/contact-sheet.png`、`preview/look-directions.png` 和各行 GIF 用于发布前视觉复核。
+`preview/validation.json` 的几何、透明和空单元格检查全部通过；`preview/review.json` 的 11 行切帧检查无错误。`waiting` 行采用经视觉确认的稳定槽位切割，因此保留一条说明性警告。`preview/contact-sheet.png`、`preview/look-directions.png` 和各行 GIF 用于发布前视觉复核。
 
 ## 非官方同人声明
 

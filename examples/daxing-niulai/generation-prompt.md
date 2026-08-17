@@ -5,15 +5,19 @@
 ## 最终采用的基准图提示词
 
 ```text
-Create one clean full-body reference sprite for Codex pet 大星牛来.
+Use case: identity-preserve
+Asset type: bold canonical full-body design concept for a tiny animated Codex desktop pet
+Primary request: Redesign the supplied “大星牛来” into a much more flamboyant, exaggerated “牛市暴富版”, while preserving the exact character identity and deadpan personality.
 
-Pet identity: 一只芥末黄色长毛、略圆润的人形小牛；短而上翘的深紫色牛角，宽大的粉紫色口鼻，半眯眼和淡定荒诞的表情；保留小耳朵、短尾巴；新增对称的钴蓝色三角领巾，领巾中央只有一个无文字的橙色四角星布贴，作为“大星AI”的个人识别元素。
+Preserve the mustard-yellow fuzzy bull, rounded body proportions, pink-lilac muzzle and hands/feet, sleepy half-lidded expression, ears, tail, cobalt-blue triangular neckerchief, orange four-point star, and stylized 3D stop-motion toy material.
 
-Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: 保留参考图的电影定格动画质感，柔软短绒毛、圆钝比例、全身直立；角色自身不带文字或可读 Logo；画面边缘必须清晰，适合缩小成桌面宠物。
+Replace both purple horns completely with oversized solid metallic-gold horns. Every visible part of each horn, from base to tip, must be polished rich gold. Make the horns about 25% larger, thicker, higher, and more dramatically upward-curved.
 
-Place a single centered pose on a perfectly flat pure cyan #00FFFF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FFFF and close colors out of the pet, props, highlights, and effects.
+Add a festive-crimson sleeveless cropped bull-market vest with very wide metallic-gold trim and symmetrical structured shoulders. Keep the blue neckerchief visible on top. Turn the orange star into a dimensional orange-and-gold medallion framed by a thick gold ring. Add one enormous centered metallic-gold upward arrow across the vest, one oversized gold ingot-shaped belt buckle on an emerald belt, and matching chunky gold wrist cuffs.
+
+Place one centered full-body character on a perfectly flat pure cyan #00FFFF background. Preserve the face and body. Keep accessories large, clean, attached, mostly symmetrical, and readable inside a 192×208 cell. No text, currency symbols, logos, tiny patterns, loose chains, floating coins, confetti, cape, crown, sunglasses, scenery, shadows, detached effects, extra limbs, or cropping.
 ```
 
 ## 动作条带策略
 
-每一行都使用 8 帧水平模板，要求完整角色留在单元格内，并保持纯青色背景。11 行依次为：`idle`、`waiting`、`running-right`、`running-left`、`waving`、`failed`、`review`、`jumping`、`look-000-157-5`、`look-180-337-5`、`running`。完整生成、抠图、拼接和验收规则见 [`make-codex-pet-v2`](../../make-codex-pet-v2/SKILL.md)。
+每个动作使用独立水平模板，帧数按状态分别为 4、5、6 或 8。由于基准图本身使用青色背景，动作条带改用纯绿色 `#00FF00`，避免色键误伤。11 行依次为：`idle`、`running-right`、`running-left`、`waving`、`jumping`、`failed`、`waiting`、`running`、`review`、`look-000-157-5`、`look-180-337-5`。完整生成、抠图、拼接和验收规则见 [`make-codex-pet-v2`](../../make-codex-pet-v2/SKILL.md)。
